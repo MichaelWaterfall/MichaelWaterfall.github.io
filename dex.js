@@ -1,5 +1,5 @@
-
-Moralis.start({ serverUrl: 'https://sps5saxmfckn.usemoralis.com:2053/server', appId: 'lLO0Rp9PcAWadlqUoRhYKJvdO4amL773oRrkx5wo' });
+//rival mechanic suit vivid acid panel snack verb frequent asthma walk fire
+Moralis.start({ serverUrl: 'https://1lcqdjyjxr9i.usemoralis.com:2053/server', appId: 'VMofHZxne0rXggFznfEbAh555e45rXVKYCuXoGL2' });
 
 Moralis
     .initPlugins()

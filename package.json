@@ -1,0 +1,21 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000i\u0000c\u0000h\u0000a\u0000e\u0000l\u0000W\u0000a\u0000t\u0000e\u0000r\u0000f\u0000a\u0000l\u0000l\u0000.\u0000g\u0000i\u0000t\u0000h\u0000u\u0000b\u0000.\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "dex.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelWaterfall/MichaelWaterfall.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelWaterfall/MichaelWaterfall.github.io/issues"
+  },
+  "homepage": "https://github.com/MichaelWaterfall/MichaelWaterfall.github.io#readme"
+}
